@@ -4,8 +4,7 @@ Undergraduate Programs.</a>*
 <br>
 <br>
 It is the interactive form of the project **<a href="https://www.github.com/candice-weber/va_ess_programs" target="_blank">Linguistic Covariance and Network Structure in Virginia Environmental Undergraduate Degree Programs</a>** undertaken as a part of my graduate studies in the [VCU School of Life Sciences and Sustainability](https://slss.vcu.edu/) with Dr. Rodney Dyer between August and December 2025.  
-<br>
-<br>
+
 The application includes a brief summary of the project and an interactive visualization
 of the network topology of Virginia undergraduate environmental degree
 programs. It is accesible from anywhere with an internet connection from
