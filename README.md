@@ -13,7 +13,7 @@ both desktop and mobile browsers. The application user can modify the
 stringency of covariance among the degree programs and see how the
 underlying connectivity changes as it is made either more lax or more
 stringent.
-<br><br>
+
 The goal of this text analysis project was to linguistically map
 Virginia undergraduate environmental degree programs by:
 
@@ -30,12 +30,10 @@ Virginia undergraduate environmental degree programs by:
   multivariate data analysis methods (after
   <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.13249"
   target="_blank">Dyer 2015</a>).
-<br><br>
+<br>
 The application is hosted on the web with
 <a href="https://shiny.posit.co/r/articles/share/shinyapps/"
-target="_blank">Shinyapps.io</a> and the underlying code available on
-GitHub at <a href="https://github.com/candice-weber/envs_network_app"
-target="&quot;_blank">/envs_network_app</a>.
+target="_blank">Shinyapps.io</a>.
 
 ## Questions?
 
