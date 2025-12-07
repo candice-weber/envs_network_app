@@ -1,11 +1,35 @@
-This [What I'm calling my Shiny dashboard](https://link.to.shiny/dashboard/) is a R Shiny dashboard that displays the results of mapping the linguistic topology of environmental studies/sciences undergraduate degree programs at public universities in Virginia.    
-This project was undertaken as a part of my graduate studies in the [VCU School of Life Sciences and Sustainability](https://slss.vcu.edu/) with Dr. Rodney Dyer in the Fall of 2025.  
+This repository contains code for the online application *<a href="https://candice-weber.shinyapps.io/envs_network/"
+target="_blank">Curricular Linguistic Networks of Virginia Environmental
+Undergraduate Programs.</a>*  The application was created using `shiny`.  It is an interactive form of the project **<a href="https://www.github.com/candice-weber/va_ess_programs" target="_blank">Linguistic Covariance and Network Structure in Virginia Environmental Undergraduate Degree Programs</a>** undertaken as a part of my graduate studies in the [VCU School of Life Sciences and Sustainability](https://slss.vcu.edu/) with Dr. Rodney Dyer between August and December 2025.  The application includes a brief summary of the project and an interactive visualization
+of the network topology of Virginia undergraduate environmental degree
+programs. It is accesible from anywhere with an internet connection from
+both desktop and mobile browsers. The application user can modify the
+stringency of covariance among the degree programs and see how the
+underlying connectivity changes as it is made either more lax or more
+stringent.
 
-The goal of this project was to linguistically map Virginia undergraduate environmental studies/sciences degree programs by:
+The goal of this text analysis project was to linguistically map
+Virginia undergraduate environmental degree programs by:
 
-- Cataloging current degree course requirements and the accompanying course descriptions for each program
+- Cataloging current degree course requirements and the accompanying
+  course descriptions for each program
 
-- Creating a linguistic vector for each degree program using R to parse and pre-process the course description text via a frequency analysis, weighing each course by number of credit hours and the specific requirements of the program
+- Creating a linguistic vector for each degree program using R to parse
+  and pre-process the course description text via a frequency analysis,
+  weighing each course by number of credit hours and the specific
+  requirements of each program
 
-- Mapping and visualizing the relationships between degree programs based on shared linguistic structures of the required cources via multivariate data analysis methods
+- Mapping and visualizing the relationships between degree programs
+  based on shared linguistic structures of the required courses via
+  multivariate data analysis methods (after
+  <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.13249"
+  target="_blank">Dyer 2015</a>).
+
+The application is hosted on the web with
+<a href="https://shiny.posit.co/r/articles/share/shinyapps/"
+target="_blank">Shinyapps.io</a> and the underlying code available on
+GitHub at <a href="https://github.com/candice-weber/envs_network_app"
+target="&quot;_blank">/envs_network_app</a>.
+
+
 
